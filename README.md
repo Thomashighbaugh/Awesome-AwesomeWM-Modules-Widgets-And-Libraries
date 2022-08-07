@@ -9,7 +9,7 @@
 
 - [Awesome AwesomeWM Widgets, Libraries and Modules](#awesome-awesomewm-widgets-libraries-and-modules)
   - [Introduction](#introduction)
-  - [Terminology and Rules](#terminology-and-rules)
+  - [The Rules](#the-rules)
   - [Configuration Related](#configuration-related)
     - [Widget Libraries](#widget-libraries)
     - [Projects that Ease Configuration](#projects-that-ease-configuration)
@@ -42,21 +42,16 @@
 
 ## Introduction
 
-This list provides the user with a central point with which to find various third party projects that may be used in one's Awesome Window Manager configuration I have compiled in my bouts of obsessive research into the topic and unfortunately no other active list enumerates to this degree.
+> blah blah blah Awesome Window Manager blah blah r/unixporn blah blah 
 
-My hope is that this will be of service to those new to the community customizing the interface of their open source desktop, which they will then enrich the community by making their implementation available to the rest of us and share on the larger ricing community's central gathering place `r/unixporn` in the form of a screenshot with a link to the associated repository the screenshot was derived from.
+Basically, this is a single place to find third party widgets, modules and libraries, however you define them, to add into your own configuration. 
 
-I have definitely missed something somewhere along the line, and have categorized the below in an ineffcient manner I am open to adjusting, thus **welcome contributions in the form of issues, pull requests and anything else the interested parties would be so kind to contribute to this collection**! So please don't be shy, the community is sustained by your contributions.
+## The Rules
 
-## Terminology and Rules
-
-Within the context of the ricing community that customizes Awesome Window Manager specifically, it seems there is a high degree of variablity in what is a widget and a module such that a meaningful discussion is not possible based on the implementations that can be found and thus one is not drawn in the list below other than libraries, which are collections of widgets and modules. How the user interacts with them in utilizing them within their configurations is specific to each and will require consulting with their documentation for more information, often available through the project's `README.md` file.
-
-Other than libraries, I have categorized the resources below in terms of their functionality, general and specific, to provide a taxonomy that I hope steers users towards resources conforming to their wants and needs in a way that they can easily appreciate. If any confusion exists on the part of interested third parties as to this taxnomy, if the user notices I missed a resource or were anyone in possession of a better means of organizing this information, I encourage the opening of an issue and I will respond to the best of my ability to their inquiry as I am able.
-
-### The Rules
-
-Included projects are those that are functionality of varying sorts that is intended to be included in a configuration of Awesome Window Manager without being configurations themselves (which I am working on a separate list for that is a lot harder to categorize). I have opted to include older projects conforming to this criteria as even if their functionality is deprecated, they often provide examples of implementations of Lua code interacting with the AwesomeWM API that may be instructive in solving one's own needs. This is a deliberately wide net being cast, such as to include the incredible diversity of options available for use in configuring AwesomeWM and give users a sense of the wide range of possibilities uniquely enabled by this particular software.
+1. Project must be intended for use with AwesomeWM in some way
+2. Must not be a configuration of AwesomeWM, I am making a list for those too (WIP)
+3. Categories are subjective, open to changing them just create an issue and we can discuss
+4. Know of something I didn't list? Awesome, make a pull request with it added or an issue and I will add it.
 
 > "tl;dr give me the goods already!"
 
@@ -233,3 +228,4 @@ Here they are:
 ## Other Awesome Lists Related to AwesomeWM
 
 - [Awesome AwesomeWM](https://github.com/atsepkov/awesome-awesome-wm)
+https://github.com/Thomashighbaugh/Awesome-AwesomeWM-Modules-Widgets-And-Libraries
