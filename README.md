@@ -71,6 +71,7 @@ Here they are:
 - [cribbed](https://github.com/duckwork/cribbed)
 - [fainty](https://github.com/vladimir-g/fainty)
 - [Gobo Awesome](https://github.com/gobolinux/gobo-awesome)
+- [lain](https://github.com/lcpz/lain) \* community favorite
 - [obvious](https://github.com/hoelzro/obvious)
 - [radical](https://github.com/Elv13/radical)
 - [vicious](https://github.com/vicious-widgets/vicious)
