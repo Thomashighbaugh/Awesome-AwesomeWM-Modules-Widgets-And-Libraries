@@ -42,9 +42,9 @@
 
 ## Introduction
 
-> blah blah blah Awesome Window Manager blah blah r/unixporn blah blah 
+> blah blah blah Awesome Window Manager blah blah r/unixporn blah blah
 
-Basically, this is a single place to find third party widgets, modules and libraries, however you define them, to add into your own configuration. 
+Basically, this is a single place to find third party widgets, modules and libraries, however you define them, to add into your own configuration.
 
 ## The Rules
 
@@ -84,6 +84,7 @@ Here they are:
 - [carrot](https://github.com/pouyanh/carrot)
 - [noobie](https://github.com/streetturtle/noobie)
 - [repetitive](https://github.com/Elv13/repetitive)
+- [awesome-ez](https://github.com/jcrd/awesome-ez)
 
 ### Configuration Transpilers
 
@@ -104,6 +105,7 @@ Here they are:
 - [awesome infinite](https://github.com/8ware/awesome-infinite)
 - [awesome-retain](https://github.com/Veratil/awesome-retain)
 - [tyrannical](https://github.com/Elv13/tyrannical)
+- [awesome-viewport](https://github.com/jcrd/awesome-viewport)
 
 ### Focus & Client Navigation
 
@@ -131,6 +133,7 @@ Here they are:
 - [awesome-overlap](https://github.com/sebth/awesome-overlap)
 - [layout-machi](https://github.com/xinhaoyuan/layout-machi)
   - [awesomewm-machina](https://github.com/basaran/awesomewm-machina)
+- [awesome-dovetail](https://github.com/jcrd/awesome-dovetail)
     <!-- ---------------------------------------------- -->
     <!-- ---------------------------------------------- -->
     <!-- ---------------------------------------------- -->
