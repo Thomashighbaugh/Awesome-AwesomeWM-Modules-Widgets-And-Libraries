@@ -18,6 +18,7 @@
     - [Tag Management](#tag-management)
     - [Focus & Client Navigation](#focus--client-navigation)
     - [Dropdown Clients](#dropdown-clients)
+    - [Client Window Launcher](#client-window-launcher)
     - [Client Window Geometry](#client-window-geometry)
     - [Layouts](#layouts)
   - [Environment and System Related](#environment-and-system-related)
@@ -121,6 +122,10 @@ Here they are:
 
 - [awesome-handy](https://github.com/crater2150/awesome-handy)
 - [awesome-scratch](https://github.com/notnew/awesome-scratch)
+
+### Client Window Launcher
+
+- [awesome-launch](https://github.com/jcrd/awesome-launch)
 
 ### Client Window Geometry
 
