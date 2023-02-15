@@ -221,6 +221,7 @@ Here they are:
 
 ### Client Decorations
 
+- [farbig](https://github.com/Nooo37/farbig)
 - [color](https://github.com/andOrlando/color)
 - [awesomePalettes](https://github.com/nivalderramas/awesomePalettes)
 - [nice](https://github.com/mut-ex/awesome-wm-nice)
