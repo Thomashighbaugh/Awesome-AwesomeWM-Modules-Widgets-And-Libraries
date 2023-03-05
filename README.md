@@ -37,6 +37,8 @@
     - [Wibar Related](#wibar-related)
     - [Client Decorations](#client-decorations)
     - [Menu](#menu)
+  - [Development Environment](#development-environment)
+    - [Autocompletion](#autocompletion)   
   - [Other Awesome Lists Related to AwesomeWM](#other-awesome-lists-related-to-awesomewm)
 
 <!-- /TOC -->
@@ -232,6 +234,11 @@ Here they are:
 - [awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer)
 - [awesome-freedesktop](https://github.com/lcpz/awesome-freedesktop) \*community favorite
 - [awesome-appmenu](https://github.com/montagdude/awesome-appmenu)
+
+## Development Environment 
+
+### Autocompletion
+- [Awesome Emmylua](https://github.com/devclyde/awesome-emmylua)
 
 <hr/>
 
