@@ -40,8 +40,6 @@
     - [Wibar Related](#wibar-related)
     - [Client Decorations](#client-decorations)
     - [Menu](#menu)
-  - [Development Environment](#development-environment)
-    - [Autocompletion](#autocompletion)   
   - [Other Awesome Lists Related to AwesomeWM](#other-awesome-lists-related-to-awesomewm)
 
 <!-- /TOC -->
@@ -91,6 +89,7 @@ Here they are:
 - [noobie](https://github.com/streetturtle/noobie)
 - [repetitive](https://github.com/Elv13/repetitive)
 - [awesome-ez](https://github.com/jcrd/awesome-ez)
+- [Awesome Emmylua](https://github.com/devclyde/awesome-emmylua) \*autocompletion!
 
 ### Configuration Transpilers
 
@@ -238,10 +237,6 @@ Here they are:
 - [awesome-freedesktop](https://github.com/lcpz/awesome-freedesktop) \*community favorite
 - [awesome-appmenu](https://github.com/montagdude/awesome-appmenu)
 
-## Development Environment 
-
-### Autocompletion
-- [Awesome Emmylua](https://github.com/devclyde/awesome-emmylua)
 
 <hr/>
 
