@@ -6,6 +6,7 @@
 <img align="left" width="28%" src="assets/awesome-logo2.svg"  alt="stylized awesome logo">
 <img align="left" width="28%" src="assets/awesome-logo3.svg"  alt="stylized awesome logo">
 <img align="left" width="28%" src="assets/awesome-logo5.svg"  alt="stylized awesome logo">
+<br/><br/><br/>
 
 - [Awesome AwesomeWM Widgets, Libraries and Modules](#awesome-awesomewm-widgets-libraries-and-modules)
   - [Introduction](#introduction)
@@ -245,4 +246,3 @@ Here they are:
 ## Other Awesome Lists Related to AwesomeWM
 
 - [Awesome AwesomeWM](https://github.com/atsepkov/awesome-awesome-wm)
-https://github.com/Thomashighbaugh/Awesome-AwesomeWM-Modules-Widgets-And-Libraries
