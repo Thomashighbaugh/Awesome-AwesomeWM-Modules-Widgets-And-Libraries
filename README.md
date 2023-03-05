@@ -3,9 +3,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <br>
 <div align="center" display="block">
-<img align="center" width="29%" src="assets/awesome-logo2.svg"  alt="stylized awesome logo">
-<img align="center" width="29%" src="assets/awesome-logo3.svg"  alt="stylized awesome logo">
-<img align="center" width="29%" src="assets/awesome-logo5.svg"  alt="stylized awesome logo">
+<img align="center" width="31%" src="assets/awesome-logo2.svg"  alt="stylized awesome logo">
+<img align="center" width="31%" src="assets/awesome-logo3.svg"  alt="stylized awesome logo">
+<img align="center" width="31%" src="assets/awesome-logo5.svg"  alt="stylized awesome logo">
   </div>
 <br/><br/><br/>
 <hr/>
