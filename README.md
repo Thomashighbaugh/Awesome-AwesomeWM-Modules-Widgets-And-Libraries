@@ -7,6 +7,7 @@
 <img align="left" width="28%" src="assets/awesome-logo3.svg"  alt="stylized awesome logo">
 <img align="left" width="28%" src="assets/awesome-logo5.svg"  alt="stylized awesome logo">
 <br/><br/><br/>
+<hr/>
 
 - [Awesome AwesomeWM Widgets, Libraries and Modules](#awesome-awesomewm-widgets-libraries-and-modules)
   - [Introduction](#introduction)
