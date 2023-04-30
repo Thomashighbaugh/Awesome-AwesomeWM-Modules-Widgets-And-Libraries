@@ -236,6 +236,8 @@ Here they are:
 - [awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer)
 - [awesome-freedesktop](https://github.com/lcpz/awesome-freedesktop) \*community favorite
 - [awesome-appmenu](https://github.com/montagdude/awesome-appmenu)
+- [Start View](https://github.com/gnomengineer/StartView)
+
 
 
 <hr/>
