@@ -55,9 +55,10 @@ Basically, this is a single place to find third party widgets, modules and libra
 1. Project must be intended for use with AwesomeWM in some way
 2. Must not be a configuration of AwesomeWM, I am making a list for those too (WIP)
 3. Categories are subjective, open to changing them just create an issue and we can discuss
-4. Know of something I didn't list? Awesome, make a pull request with it added or an issue and I will add it.
 
-> "tl;dr give me the goods already!"
+> NOTE: Know of something I didn't list? Awesome, make a pull request with it added or an issue and I will add it.
+
+**"tl;dr give me the goods already!"**
 
 Here they are:
 
