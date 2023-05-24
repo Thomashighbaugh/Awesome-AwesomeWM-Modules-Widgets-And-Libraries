@@ -58,7 +58,7 @@ Basically, this is a single place to find third party widgets, modules and libra
 
 > NOTE: Know of something I didn't list? Awesome, make a pull request with it added or an issue and I will add it.
 
-**"tl;dr give me the goods already!"**
+## **"tl;dr give me the goods already!"**
 
 Here they are:
 
