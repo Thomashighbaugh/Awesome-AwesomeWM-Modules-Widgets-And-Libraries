@@ -65,6 +65,7 @@ Here they are:
 
 ### Widget Libraries
 
+- [andOrlando'S awesome widgets](https://github.com/andOrlando/awesome-widgets)
 - [awesome-away](https://github.com/shmilee/awesome-away)
 - [awesome-buttons](https://github.com/streetturtle/awesome-buttons)
 - [awesome-glorious-widgets](https://github.com/manilarome/awesome-glorious-widgets)
