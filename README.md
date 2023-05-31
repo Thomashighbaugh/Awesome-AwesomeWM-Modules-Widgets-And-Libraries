@@ -156,6 +156,7 @@ Here they are:
 
 - [gobo-awesome-screenlock](https://github.com/gobolinux/gobo-awesome-screenlock)
 - [awesome-wallpaper](https://github.com/JavaCafe01/awesome-wallpaper)
+- [dash-widgets](https://github.com/eylles/dash-widgets)
 
 ### Tmux Integration
 
