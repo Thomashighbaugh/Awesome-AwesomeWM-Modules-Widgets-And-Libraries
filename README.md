@@ -240,6 +240,8 @@ Here they are:
 - [awesome-freedesktop](https://github.com/lcpz/awesome-freedesktop) \*community favorite
 - [awesome-appmenu](https://github.com/montagdude/awesome-appmenu)
 - [Start View](https://github.com/gnomengineer/StartView)
+- [AwesomeWM Gnome Menu](https://github.com/albel727/awesomewm_gnome_menu)
+
 
 
 
