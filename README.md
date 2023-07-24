@@ -87,6 +87,8 @@ Here they are:
 - [Awesome Awesome RC](https://github.com/suconakh/awesome-awesome-rc)
 - [awesome-ezconfig](https://github.com/gvalkov/awesome-ezconfig)
 - [awmtt](https://github.com/serialoverflow/awmtt) \*important for beginners!
+- [awmtt-ng](https://github.com/basaran/awmtt-ng)
+- [aawmtt](https://github.com/Curve/aawmtt)
 - [carrot](https://github.com/pouyanh/carrot)
 - [noobie](https://github.com/streetturtle/noobie)
 - [repetitive](https://github.com/Elv13/repetitive)
