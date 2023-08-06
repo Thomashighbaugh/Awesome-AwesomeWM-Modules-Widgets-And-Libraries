@@ -93,8 +93,9 @@ Here they are:
 - [noobie](https://github.com/streetturtle/noobie)
 - [repetitive](https://github.com/Elv13/repetitive)
 - [awesome-ez](https://github.com/jcrd/awesome-ez)
-- [Awesome Emmylua](https://github.com/devclyde/awesome-emmylua) \*autocompletion!
-
+- [Awesome Emmylua](https://github.com/devclyde/awesome-emmylua)
+- [awesome code doc](https://github.com/kosorin/awesome-code-doc) \* LSP settings specific to awesome
+  
 ### Configuration Transpilers
 
 - [awesomewm.ts.d](https://github.com/saksmt/awesomewm.d.ts) \* for typescript
