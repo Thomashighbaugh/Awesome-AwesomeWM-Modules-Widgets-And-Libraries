@@ -109,6 +109,7 @@ Here they are:
 
 ### Tag Management
 
+- [charitable](https://github.com/frioux/charitable)
 - [awesome-sharedtags](https://github.com/Drauthius/awesome-sharedtags)
 - [awesome_tagdrag](https://github.com/jorenheit/awesome_tagdrag)
 - [awesome infinite](https://github.com/8ware/awesome-infinite)
