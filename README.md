@@ -16,6 +16,7 @@
   - [Configuration Related](#configuration-related)
     - [Widget Libraries](#widget-libraries)
     - [Projects that Ease Configuration](#projects-that-ease-configuration)
+    - [Integrated Development Environments](#integrated-development0-environments)
     - [Configuration Transpilers](#configuration-transpilers)
   - [Window Mangement](#window-mangement)
     - [Tag Management](#tag-management)
@@ -95,7 +96,10 @@ Here they are:
 - [awesome-ez](https://github.com/jcrd/awesome-ez)
 - [Awesome Emmylua](https://github.com/devclyde/awesome-emmylua)
 - [awesome code doc](https://github.com/kosorin/awesome-code-doc) \* LSP settings specific to awesome
-  
+
+### Integrated Development Environment 
+- [gratuitous](https://github.com/jechasteen/gratuitous)
+ 
 ### Configuration Transpilers
 
 - [awesomewm.ts.d](https://github.com/saksmt/awesomewm.d.ts) \* for typescript
