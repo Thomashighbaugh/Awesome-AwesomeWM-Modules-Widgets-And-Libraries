@@ -245,6 +245,7 @@ Here they are:
 - [fenetre](https://github.com/cool-cool-sweat/fenetre)
 - [icon_customizer](https://github.com/intrntbrn/icon_customizer)
 - [calendar](https://github.com/deficient/calendar)
+- [stock-widget](https://github.com/whwright/stock-widget)
 
 ### Client Decorations
 
