@@ -26,6 +26,7 @@
     - [Client Window Geometry](#client-window-geometry)
     - [Layouts](#layouts)
   - [Environment and System Related](#environment-and-system-related)
+    - [Hardware](#hardware)
     - [Session Related](#session-related)
     - [Tmux Integration](#tmux-integration)
     - [Multimedia](#multimedia)
@@ -160,6 +161,11 @@ Here they are:
 
 ## Environment and System Related
 
+### Hardware
+
+- [cpuinfo](https://github.com/deficient/cpuinfo)
+- [leds-widget](https://github.com/deficient/leds-widget)
+
 ### Session Related
 
 - [gobo-awesome-screenlock](https://github.com/gobolinux/gobo-awesome-screenlock)
@@ -176,6 +182,7 @@ Here they are:
 - [awesome-pa-utility](https://github.com/lealoureiro/awesome-pa-utility)
 - [awesome-pulseaudio_widget](https://github.com/stefano-m/awesome-pulseaudio_widget)
 - [alsa-volume-monitor](https://github.com/gch1p/alsa-volume-monitor)
+- [volume-control](https://github.com/deficient/volume-control)
 
 ### Laptop Specific
 
@@ -183,6 +190,8 @@ Here they are:
 - [awesome_batterywidget](https://github.com/jorenheit/awesome_batterywidget)
 - [awesome-upower-battery](https://github.com/berlam/awesome-upower-battery)
 - [awesome-light](https://github.com/troglobit/awesome-light)
+- [brightness](https://github.com/deficient/brightness)
+- [battery-widget](https://github.com/deficient/battery-widget)
 
 ### Networking
 
@@ -201,7 +210,8 @@ Here they are:
 ## Keyboard Related
 
 - [keyboard_layout](https://github.com/echuraev/keyboard_layout)
-
+- [keyboard-layout-indicator](https://github.com/deficient/keyboard-layout-indicator)
+- 
 ### Caps Lock Widgets
 
 - [awesomewm-capslock_widget](https://github.com/iacchus/awesomewm-capslock-widget)
@@ -227,12 +237,14 @@ Here they are:
 ### Notifications
 
 - [AwesomeWM Memory Notifier plug-in](https://github.com/macunha1/awesomewm-memory-notifier)
+- [screensaver](https://github.com/deficient/screensaver)
 
 ### Wibar Related
 
 - [bar](https://github.com/wezm/bar)
 - [fenetre](https://github.com/cool-cool-sweat/fenetre)
 - [icon_customizer](https://github.com/intrntbrn/icon_customizer)
+- [calendar](https://github.com/deficient/calendar)
 
 ### Client Decorations
 
@@ -241,6 +253,7 @@ Here they are:
 - [awesomePalettes](https://github.com/nivalderramas/awesomePalettes)
 - [nice](https://github.com/mut-ex/awesome-wm-nice)
 - [smart_borders](https://github.com/intrntbrn/smart_borders)
+- [quicklaunch](https://github.com/deficient/quicklaunch)
 
 ### Menu
 
