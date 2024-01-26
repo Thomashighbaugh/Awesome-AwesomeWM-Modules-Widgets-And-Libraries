@@ -261,6 +261,7 @@ Here they are:
 - [awesomewm-app-drawer](https://github.com/nwdamgaard/awesomewm-app-drawer)
 - [awesome-freedesktop](https://github.com/lcpz/awesome-freedesktop) \*community favorite
 - [awesome-appmenu](https://github.com/montagdude/awesome-appmenu)
+  - [Shared Awesome App Menu](https://github.com/sharedordaz/Shared-AwesomeAppMenu)
 - [Start View](https://github.com/gnomengineer/StartView)
 - [AwesomeWM Gnome Menu](https://github.com/albel727/awesomewm_gnome_menu)
 
