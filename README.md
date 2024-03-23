@@ -256,6 +256,7 @@ Here they are:
 - [nice](https://github.com/mut-ex/awesome-wm-nice)
 - [smart_borders](https://github.com/intrntbrn/smart_borders)
 - [quicklaunch](https://github.com/deficient/quicklaunch)
+- [surface_filters](https://github.com/ReadyWidgets/surface_filters/tree/master)
 
 ### Menu
 
