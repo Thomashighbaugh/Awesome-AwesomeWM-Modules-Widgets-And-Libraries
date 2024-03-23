@@ -71,6 +71,7 @@ Here they are:
 - [andOrlando's awesome widgets](https://github.com/andOrlando/awesome-widgets)
 - [awesome-away](https://github.com/shmilee/awesome-away)
 - [awesome-buttons](https://github.com/streetturtle/awesome-buttons)
+- [awesome-extrautils](https://github.com/ReadyWidgets/awesome-extrautils)
 - [awesome-glorious-widgets](https://github.com/manilarome/awesome-glorious-widgets)
 - [awesome-widgets](https://github.com/WillPower3309/awesome-widgets)
 - [awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) \* community favorite
