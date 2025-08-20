@@ -133,6 +133,7 @@ Here they are:
   - [awesome-switcher](https://github.com/troglobit/awesome-switcher)
 - [awesome_alttab](https://github.com/jorenheit/awesome_alttab)
 - [awesome-revelation](https://github.com/bioe007/awesome-revelation)
+- [awesomewm-cursor-teleport](https://github.com/lpanebr/awesomewm-cursor-teleport)
 
 ### Dropdown Clients
 
