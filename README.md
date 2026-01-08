@@ -243,6 +243,8 @@ Here they are:
 
 ### Wibar Related
 
+
+- [awbar](https://github.com/aidinio/awbar)
 - [bar](https://github.com/wezm/bar)
 - [fenetre](https://github.com/cool-cool-sweat/fenetre)
 - [icon_customizer](https://github.com/intrntbrn/icon_customizer)
