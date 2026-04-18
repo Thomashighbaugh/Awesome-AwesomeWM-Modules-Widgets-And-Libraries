@@ -250,6 +250,7 @@ Here they are:
 - [icon_customizer](https://github.com/intrntbrn/icon_customizer)
 - [calendar](https://github.com/deficient/calendar)
 - [stock-widget](https://github.com/whwright/stock-widget)
+- [weather](https://github.com/eylles/awesomewm-wttr-widget)
 
 ### Client Decorations
 
